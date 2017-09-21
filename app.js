@@ -5,5 +5,4 @@ function updateColor() {
     var colorArea = document.getElementById('color-area');
     var newColorValue = 'rgb(' + redVal + ',' + greenVal + ',' + blueVal + ')';
     colorArea.style.backgroundColor = newColorValue;
-
 }
