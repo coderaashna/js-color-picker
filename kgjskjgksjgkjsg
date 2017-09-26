@@ -1,0 +1,41 @@
+[33mcommit 8bccf97b7d5781c217f15e65861c34129260529b[m
+Author: coderaashna <aashna.iitk@gmail.com>
+Date:   Thu Sep 21 23:56:08 2017 +0530
+
+    Code Cleanup
+    
+    * *  Corrected Html Tag Closer
+    
+    1. Index.html.
+    
+     * * Id Standarization
+
+[33mcommit af1fef21d59e4d4d5bc04dd782975614c74d1345[m
+Author: Aashna Anand <30548320+coderaashna@users.noreply.github.com>
+Date:   Thu Sep 21 18:04:20 2017 +0000
+
+    Update app.js
+
+[33mcommit 2a02d5d566a175bdc58b9bd959391e701f8f0acc[m
+Author: Aashna Anand <30548320+coderaashna@users.noreply.github.com>
+Date:   Thu Sep 21 18:00:30 2017 +0000
+
+    Update styles.css
+
+[33mcommit 4be670f5818d20835e41ce4e9cc536225d37e034[m
+Author: Aashna Anand <30548320+coderaashna@users.noreply.github.com>
+Date:   Thu Sep 21 17:56:51 2017 +0000
+
+    Update index.html
+
+[33mcommit f88e5cc475d0f85ffcad4cddaa8b6cc6cd7d8871[m
+Author: Aashna Anand <30548320+coderaashna@users.noreply.github.com>
+Date:   Thu Sep 21 17:55:34 2017 +0000
+
+    Update index.html
+
+[33mcommit ed681cc702de7b8b9f1b484a2f3c3613590cf3f7[m
+Author: coderaashna <aashna.iitk@gmail.com>
+Date:   Thu Sep 21 22:36:46 2017 +0530
+
+    Initial commit
