@@ -1,24 +1,31 @@
 <!doctype html>
+
+
 <html>
 <head>
-    <link rel="stylesheet" href="styles.css">
+ <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div id="color-area">
-    </div>
-    <div id="red-slider">
-        <input type="range" class="slider" id="red-val" min="0" max="255" />
-    </div>
-    <div id="blue-slider">
-        <input type="range" class="slider" id="blue-val" min="0" max="255" />
-    </div>
-    <div id="green-slider">
-        <input type="range" class="slider" id="green-val" min="0" max="255" />
-    </div>
-    <div>
-        <input type="button" value="See Color" id="btn-color-checker" onclick="updateColor();" />
-    </div>
+<div id="color-area">
+  
+ </div> 
+<div id="red-slider">
+  <input type="range" class="slider" id="redVal" min="0" max="255" value="0">
+</div>
+<div id="blue-slider">
+  <input type="range" class="slider" id="blueVal" min="0" max="255" value="0">
+</div>
+<div id="green-slider">
+  <input type="range" class="slider" id="greenVal" min="0" max="255" value="0">
+</div>
+<div>
+  <input type="button" value="See Color" id="btn-color-checker" onclick="updateColor();"/>
+  </div>
+
+
 </body>
 <script src="app.js">
-</script>
 </html>
+
+
+

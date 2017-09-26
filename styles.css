@@ -4,6 +4,10 @@ div#color-area {
     border: 1px solid black;
     background-color: black;
 }
-body {
-    background-color: grey;
+body
+{
+backgroung-color: blue;
+}
+.slider:hover {
+    opacity: 1; /* Fully shown on mouse-over */
 }
